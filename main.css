@@ -1,0 +1,19 @@
+body{
+	
+	background-color:  #566783;
+	background-size: contain;
+	
+
+}
+.zachot{
+	position: absolute;
+	left: 35%;
+    top: 20%;
+    animation-iteration-count : infinite;
+animation-timing-function: linear;
+}
+
+.forma {
+position: relative;
+}
+
